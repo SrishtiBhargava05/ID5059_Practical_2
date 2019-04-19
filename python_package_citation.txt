@@ -1,0 +1,22 @@
+Chawla, N. V., Bowyer, K. W., Hall, L. O., and Kegelmeyer, W. P. (2002). Smote: synthetic
+minority over-sampling technique. Journal of artificial intelligence research.
+
+Chen, C., Liaw, A., Breiman, L., et al. (2004). Using random forest to learn imbalanced data.
+University of California, Berkeley, 165(2):228–237.
+
+Hunter, J. D. (2007). Matplotlib: A 2d graphics environment. Computing in Science & Engineering,
+9(3):90–95.
+
+Jones, E., Oliphant, T., Peterson, P., et al. (2001). SciPy: Open source scientific tools for Python.
+
+Kubat, M., Matwin, S., et al. (2010). Addressing the curse of imbalanced training sets: one-sided
+selection. In Icml, pages 40–52.
+
+Lemaˆıtre, G., Nogueira, F., and Aridas, C. K. (2017). Imbalanced-learn: A python toolbox to tackle
+the curse of imbalanced datasets in machine learning. Journal of Machine Learning Research.
+
+McKinney, W. (2016). Data structures for statistical computing in python. In Proceedings of the
+9th Python in Science Conference.
+
+van der Walt, S., Colbert, S. C., and Varoquaux, G. (2011). The NumPy array: A structure for
+efficient numerical computation. Computing in Science & Engineering, 13(2):22–30.
